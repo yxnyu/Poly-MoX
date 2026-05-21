@@ -1,0 +1,17 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+
+# Cheminformatics
+rdkit
+
+# Models
+xgboost
+torch
+transformers
+
+# Hyperparameter search (with SQLite storage)
+optuna

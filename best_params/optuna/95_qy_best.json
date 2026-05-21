@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "seed": 42,
+    "target": "QY",
+    "n_samples": 95
+  },
+  "xgb1_n_estimators": 1085,
+  "xgb1_lr": 0.15704238351285812,
+  "xgb1_max_depth": 10,
+  "xgb1_subsample": 0.8070412041336478,
+  "xgb1_colsample_bytree": 0.6170987016438764,
+  "xgb2_n_estimators": 898,
+  "xgb2_lr": 0.024382682298597188,
+  "xgb2_max_depth": 6,
+  "xgb2_subsample": 0.5947802315011316,
+  "xgb2_colsample_bytree": 0.5057079190583231,
+  "gate_l1": 0.00027676095460885613
+}

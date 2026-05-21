@@ -1,0 +1,30 @@
+# 特征缓存（92M，运行时会重新生成）
+.cache_features/
+
+# Optuna study DB（142M, 用 dump_study_best.py 提取 best_params 后不需要原 DB）
+optuna_studies/
+
+# 日志（186M，被杀作业的 Optuna trial 输出）
+logs/
+
+# 临时训练输出 / 模型副本
+runs/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# slurm 临时文件
+.post_round2_corrected_*.sh
+slurm-*.out
+
+# 编辑器/系统
+.DS_Store
+.vscode/
+.idea/
+
+# 大数据/预测中间产物（如果有的话，已经放进 results/predictions/ 保留）
+*.npz
+
+# Claude Code 本地配置和会话日志
+.claude/

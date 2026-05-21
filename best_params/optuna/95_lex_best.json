@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "seed": 123,
+    "target": "λex",
+    "n_samples": 95
+  },
+  "xgb1_n_estimators": 1577,
+  "xgb1_lr": 0.1182394962577629,
+  "xgb1_max_depth": 10,
+  "xgb1_subsample": 0.8345344157672279,
+  "xgb1_colsample_bytree": 0.7300059906180679,
+  "xgb2_n_estimators": 462,
+  "xgb2_lr": 0.10543453377110802,
+  "xgb2_max_depth": 3,
+  "xgb2_subsample": 0.990968953349457,
+  "xgb2_colsample_bytree": 0.9590881024431391,
+  "gate_l1": 0.008361534030263535
+}

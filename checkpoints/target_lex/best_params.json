@@ -1,0 +1,13 @@
+{
+  "xgb1_n_estimators": 678,
+  "xgb1_lr": 0.2802134311880132,
+  "xgb1_max_depth": 6,
+  "xgb1_subsample": 0.9927615724491031,
+  "xgb1_colsample_bytree": 0.6046082136513264,
+  "xgb2_n_estimators": 749,
+  "xgb2_lr": 0.012125255194334415,
+  "xgb2_max_depth": 9,
+  "xgb2_subsample": 0.7329824540027922,
+  "xgb2_colsample_bytree": 0.5302335241883893,
+  "gate_l1": 0.005790572264069333
+}
