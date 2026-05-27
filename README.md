@@ -9,7 +9,7 @@ Targets predicted: **λex** (excitation), **λem** (emission), **QY** (quantum y
 Contents:
 
 - MoE model: Morgan FP + ChemBERTa, each fed to XGBoost, fused by an ElasticNet gate
-- 4 rounds of active learning (R1 → R4); training set grew 95 → 140 polymers
+- 3 rounds of active learning (R1 → R3); training set grew 95 → 140 polymers
 - Optuna hyperparameter tuning, SQLite-backed (auto-resumes across SLURM job kills)
 - BO acquisition: Thompson Sampling, EI, UCB, Tanimoto diversity, phase-wise weighting
 
